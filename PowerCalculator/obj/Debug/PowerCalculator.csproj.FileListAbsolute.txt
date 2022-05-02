@@ -1,0 +1,10 @@
+C:\Users\Ludba\source\repos\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.exe.config
+C:\Users\Ludba\source\repos\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.exe
+C:\Users\Ludba\source\repos\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.pdb
+C:\Users\Ludba\source\repos\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.csproj.AssemblyReference.cache
+C:\Users\Ludba\source\repos\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.Form1.resources
+C:\Users\Ludba\source\repos\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.Properties.Resources.resources
+C:\Users\Ludba\source\repos\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.csproj.GenerateResource.cache
+C:\Users\Ludba\source\repos\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Ludba\source\repos\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.exe
+C:\Users\Ludba\source\repos\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.pdb
